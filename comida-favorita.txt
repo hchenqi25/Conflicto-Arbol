@@ -1,4 +1,0 @@
-La comida favorita del alumno es:
-comida favorita
-salsa palmiste
-arroz chao fan
